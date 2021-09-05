@@ -1,0 +1,92 @@
+body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: none;
+    font-size: larger;
+    background-color: pink;
+}
+
+h1 {
+    background-color: CYAN;
+    padding: 20px 60px 40px 30px;
+    margin: auto;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+}
+
+#label1 {
+    margin-top: 1rem;
+    color: green;
+}
+
+#label2 {
+    margin-top: 1rem;
+    color: green;
+}
+
+#label3 {
+    margin-top: 1rem;
+    color: green;
+}
+
+#initial-price {
+    padding: 20px 60px 20px 30px;
+    margin: auto;
+    background-color: antiquewhite;
+}
+
+#stocks-quantity {
+    padding: 20px 60px 20px 30px;
+    margin: auto;
+    background-color: antiquewhite;
+}
+
+#current-price {
+    padding: 20px 60px 20px 30px;
+    margin: auto;
+    margin-bottom: 1rem;
+    background-color: antiquewhite;
+}
+
+#submit-btn {
+    background-color: yellow;
+    padding: 10px 100px 10px 100px;
+    margin: auto;
+    border-radius: 2rem;
+}
+
+#output-box {
+    margin: 1rem;
+    color: red;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    color: black;
+    margin-top: 100px;
+    color: green;
+}
+
+footer p {
+    font-size: large;
+    text-align: center;
+    padding-left: 35px;
+}
+
+a,
+img,
+li {
+    display: inline-flex;
+    flex-direction: row;
+}
+
+img {
+    width: 40px;
+    margin: 0.6rem;
+}
